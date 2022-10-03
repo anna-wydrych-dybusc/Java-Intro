@@ -90,6 +90,7 @@ public class Lesson1 {
         double fahrenheit = 67.0;
         double celsius = (fahrenheit - 32)*5/9;
         System.out.println(celsius);
+        System.out.println("finished");
 
 
     }
